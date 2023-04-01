@@ -1,0 +1,20 @@
+.container {
+    margin-top: 200px;
+    text-align: center;
+    position: relative;
+}
+
+.muito1 {
+    color:aqua;
+    font-size: 48px;
+}
+
+.muito2 {
+    color: red;
+    font-size: 72px;
+}
+
+.muito3 {
+    color: green;
+    font-size: 96px;
+}
